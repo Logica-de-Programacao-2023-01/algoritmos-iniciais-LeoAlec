@@ -1,0 +1,5 @@
+ler x ler y
+resolução de x+y
+exibir resolução de x+y
+
+

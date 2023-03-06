@@ -1,0 +1,4 @@
+ler x
+ler y
+resolução x + y
+exibir resolução x + y
